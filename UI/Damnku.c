@@ -20,7 +20,7 @@ int main(int argc, char* argv[])
 {
 
     if(SDL_Init(SDL_INIT_VIDEO)<0)
-        printf("SDL��ʼ��ʧ�ܣ�������-1");
+        printf("SDL inits fail!");
 
     SDL_Window* window;
     SDL_Renderer* rend;
