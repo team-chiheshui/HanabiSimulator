@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/SDL2/include",
+                "C:/SDL2_image/include",
+                "${workspaceFolder}/**"
+                
+            ],
+/*             "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "C:/SDL2/lib/x64",
+                    "C:/SDL2_image/lib/x64"
+                ]
+            }, */
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "D:/Microsoft VS/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
