@@ -12,11 +12,11 @@
 #define playerSpawnY 100
 
 //灵梦A机体数据宏
-#define reimuAPictureFile "./../../UI/Replayer/ReimuA.png"
+#define reimuAPictureFile "./../../UI/player/ReimuA.png"
 #define reimuASpeedX 4
 #define reimuASpeedY 3
 
-#define reimuABulletPictureFile "./../../UI/Replayer/ReimuABullet_Orange.png"
+#define reimuABulletPictureFile "./../../UI/player/ReimuABullet_Orange.png"
 #define reimuABulletSpeedx 8
 #define reimuABulletSpeedY 6
 
@@ -38,4 +38,4 @@
 
 
 #include "Kernal.h"
-#include "./../Replayer/Plane.h"
+#include "./../player/Plane.h"
